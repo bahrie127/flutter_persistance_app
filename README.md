@@ -249,6 +249,18 @@ Project ini dibuat untuk tujuan pembelajaran. Silakan:
 - [Path Provider Package](https://pub.dev/packages/path_provider)
 - [SQFlite Package](https://pub.dev/packages/sqflite)
 
+## 👨‍💻 About the Creator
+
+**Saiful Bahri** - Flutter Developer & Instructor
+
+📱 Connect with me:
+
+- 📺 **YouTube:** [@codewithbahri](https://youtube.com/@codewithbahri)
+- 📷 **Instagram:** [@codewithbahri](https://instagram.com/codewithbahri)
+- 💼 **LinkedIn:** [/in/bahrie](https://linkedin.com/in/bahrie)
+
+> Follow untuk tutorial Flutter dan mobile development lainnya! 🚀
+
 ---
 
 **Happy Learning! 🎓✨**
